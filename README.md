@@ -23,7 +23,7 @@ mean of each column of the data set. A Python script will quickly do this for yo
 
 **About-Iris-Data-Set**
 
-The Iris data set contains measurements in centimeters for the variables sepal length and width, and petal length and width, for 150 flowers from 3 species of iris, Iris setosa, versicolor, and virginica. The data was collected over several years by Edgar Anderson, who used the data to show that the measurements could be used to differentiate between different species of irises. It is split into 5 attributes 
+The Iris data set contains measurements in centimeters for the variables sepal length and width, and petal length and width, for 150 flowers from 3 species of iris, Iris setosa, versicolor, and virginica. The data was collected over several years by Edgar Anderson, who used the data to show that the measurements could be used to differentiate between different species of irises. It is split into 5 attributes:
 
 1.Sepal Length
 
