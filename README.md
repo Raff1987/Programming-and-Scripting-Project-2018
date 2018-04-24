@@ -33,11 +33,11 @@ The Iris data set contains measurements in centimeters for the variables sepal l
 
 4.Petal Width
 
-5.Class:
+5.Class:  
 
-##-Iris Setosa
-##-Iris Versicolour
-##-Iris Virginica
+-Iris Setosa
+-Iris Versicolour
+-Iris Virginica
 
 
 
