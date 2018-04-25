@@ -42,7 +42,7 @@ The Iris data set contains measurements in centimeters for the variables sepal l
 
 
 
-   ![Image of Petal](http://s5047.pcdn.co/wp-content/uploads/2015/04/iris_petal_sepal.png)
+   ![Image of Petal](http://www.bogotobogo.com/python/scikit-learn/images/features/iris-data-set.png)
 
 
 | Tables        | Are           | Cool  |
