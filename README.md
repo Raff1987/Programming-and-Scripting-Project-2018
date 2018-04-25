@@ -33,8 +33,7 @@ The Iris data set contains measurements in centimeters for the variables sepal l
 
 4.Petal Width
 
-5.Class:  
-
+5.Class
 
    ![Image of Petal](http://www.bogotobogo.com/python/scikit-learn/images/features/iris-data-set.png)
 
