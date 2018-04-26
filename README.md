@@ -34,6 +34,7 @@ The Iris flower data set of information compiled by Ronald Fisher, a biologist, 
    ![Image of Petal](http://www.bogotobogo.com/python/scikit-learn/images/features/iris-data-set.png)
 
 Ref: http://www.bogotobogo.com/python/scikit-learn/scikit_machine_learning_features_extraction.php
+[![Iris data set ](http://img.youtube.com/vi/v=hd1W4CyPX58/0.jpg)](http://www.youtube.com/watch?v=v=hd1W4CyPX58)
 
 The best exapmle of how this data set is perfect for computing I found during my reaserch was a short article in https://www.techopedia.com/definition/32880/iris-flower-data-set
 
@@ -51,5 +52,10 @@ http://accord-framework.net/docs/html/T_Accord_DataSets_Iris.htm
 http://scikit-learn.org/stable/auto_examples/datasets/plot_iris_dataset.html
 https://www.youtube.com/watch?v=hd1W4CyPX58
 
-[![Iris data set ](http://img.youtube.com/vi/v=hd1W4CyPX58/0.jpg)](http://www.youtube.com/watch?v=v=hd1W4CyPX58)
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=v=hd1W4CyPX58
+" target="_blank"><img src="http://img.youtube.com/vi/v=hd1W4CyPX58/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
+
 Investigation
