@@ -12,6 +12,7 @@ have investigated and written about it previously, and many of those are not exp
 programmers. You are expected to be able to break this project into several smaller tasks
 that are easier to solve, and to plug these together after they have been completed. You
 might do that for this project as follows:
+
 1. Research background information about the data set and write a summary about
 it.
 2. Keep a list of references you used in completing the project.
