@@ -36,7 +36,7 @@ The Iris flower data set of information compiled by Ronald Fisher, a biologist, 
 Ref: http://www.bogotobogo.com/python/scikit-learn/scikit_machine_learning_features_extraction.php
 [![Iris data set ](http://img.youtube.com/vi/v=hd1W4CyPX58/0.jpg)](http://www.youtube.com/watch?v=v=hd1W4CyPX58)
 
-The best exapmle of how this data set is perfect for computing I found during my reaserch was a short article in https://www.techopedia.com/definition/32880/iris-flower-data-set
+The best exapmle of how this data set is perfect for computing I found during my reaserch was a short article in  [Technopedia](https://www.techopedia.com/definition/32880/iris-flower-data-set)
 
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
