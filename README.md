@@ -45,12 +45,17 @@ The best exapmle of how this data set is perfect for computing I found during my
 | zebra stripes | are neat      |    $1 |
 
 References 
-https://en.wikipedia.org/wiki/Iris_flower_data_set
-https://archive.ics.uci.edu/ml/datasets/iris
-http://www.randomservices.org/random/data/Fisher.html
-http://accord-framework.net/docs/html/T_Accord_DataSets_Iris.htm
-http://scikit-learn.org/stable/auto_examples/datasets/plot_iris_dataset.html
-https://www.youtube.com/watch?v=hd1W4CyPX58
+*https://en.wikipedia.org/wiki/Iris_flower_data_set*
+
+*https://archive.ics.uci.edu/ml/datasets/iris*
+
+*http://www.randomservices.org/random/data/Fisher.html*
+
+*http://accord-framework.net/docs/html/T_Accord_DataSets_Iris.htm*
+
+*http://scikit-learn.org/stable/auto_examples/datasets/plot_iris_dataset.html*
+
+*https://www.youtube.com/watch?v=hd1W4CyPX58*
 
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=v=hd1W4CyPX58
