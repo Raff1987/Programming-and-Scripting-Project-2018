@@ -24,15 +24,15 @@ mean of each column of the data set. A Python script will quickly do this for yo
 
 The Iris flower data set of information compiled by Ronald Fisher, a biologist, in the 1930s. It describes certain biological characteristics of different types of Iris flowers.The Iris flower data set is now widely used as a data set for testing purposes in computer science.The Iris data set contains measurements in centimeters for the variables sepal length and width, and petal length and width, for 150 flowers from 3 species of iris, Iris setosa, versicolor, and virginica. The data was collected over several years by Edgar Anderson, who used the data to show that the measurements could be used to differentiate between different species of irises. It is split into 5 attributes:
 
-1.Sepal Length
+1. Sepal Length
 
-2.Sepal Width
+2. Sepal Width
 
-3.Petal Length
+3. Petal Length
 
-4.Petal Width
+4. Petal Width
 
-5.Class
+5. Class
 
    ![Image of Petal](http://www.bogotobogo.com/python/scikit-learn/images/features/iris-data-set.png)
 
