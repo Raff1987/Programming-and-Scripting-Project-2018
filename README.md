@@ -2,7 +2,8 @@
 
 *Martin Rafter G00364709*
 
-Project Module 'Programming and Scripting' - Dataset used: Iris Dataset and Programming Language: Python
+Project Module 'Programming and Scripting'  
+Dataset used: Iris Dataset and Programming Language: Python
 
 ## **Problem-statement**
 
@@ -38,7 +39,7 @@ The Iris flower data set of information compiled by Ronald Fisher, a biologist, 
 Ref: http://www.bogotobogo.com/python/scikit-learn/scikit_machine_learning_features_extraction.php
 
 
-The best exapmle of how this data set is perfect for computing I found during my reaserch was a short article in  [Technopedia](https://www.techopedia.com/definition/32880/iris-flower-data-set)
+The best exapmle of how this data set is perfect for computing and data analytics I found during my reaserch was a short article in  [Technopedia](https://www.techopedia.com/definition/32880/iris-flower-data-set)
 
 References 
 *Wikipedia. 2018. Iris flower data set. [ONLINE] Available at: https://en.wikipedia.org/wiki/Iris_flower_data_set. [Accessed 17 April 2018].*
@@ -57,5 +58,13 @@ References
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 
-Investigation
-As I am new to progamming a large part of this project was spent trying to understand the importance of the fisher data set in terms of comptuing. 
+## Investigation
+
+### Methodology
+
+1. Download the iris data set as a .csv file.
+2. Load the iris data set into visual studio code.
+3. Load the NumPy and Matplotlib python libraries using ipython
+4. Create python code to return the min, max and mean values of the data and the standard deviation.
+5. Create python code to return histograms and scatter graphs of the varibles in the data.
+
