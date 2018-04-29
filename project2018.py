@@ -15,65 +15,65 @@ def mean(col):
     meancol = (np.mean(data[:,col]))
     return meancol    
 
-print("Sepal length Mean is:",'{:0.1f}'.format(mean(0)))
+print("Sepal Length Mean is:",'{:0.1f}'.format(mean(0)))
 print("Sepal Width Mean is:",'{:0.1f}'.format(mean(1)))
-print("Petal length Mean is:",'{:0.1f}'.format(mean(2)))
-print("Petal width Mean is:",'{:0.1f}'.format(mean(3)))
+print("Petal Length Mean is:",'{:0.1f}'.format(mean(2)))
+print("Petal Width Mean is:",'{:0.1f}'.format(mean(3)))
 
 def colmin(col):
     mincol = (np.min(data[:,col]))
     return mincol    
 
-print("Sepal length min is:",'{:0.1f}'.format(colmin(0)))
+print("Sepal Length min is:",'{:0.1f}'.format(colmin(0)))
 print("Sepal Width min is:",'{:0.1f}'.format(colmin(1)))
-print("Petal length min is:",'{:0.1f}'.format(colmin(2)))
-print("Petal width min is:",'{:0.1f}'.format(colmin(3)))   
+print("Petal Length min is:",'{:0.1f}'.format(colmin(2)))
+print("Petal Width min is:",'{:0.1f}'.format(colmin(3)))   
 
 def colmax(col):
     maxcol = (np.max(data[:,col]))
     return maxcol    
 
-print("Sepal length Max is:",'{:0.1f}'.format(colmax(0)))
+print("Sepal Length Max is:",'{:0.1f}'.format(colmax(0)))
 print("Sepal Width Max is:",'{:0.1f}'.format(colmax(1)))
-print("Petal length Max is:",'{:0.1f}'.format(colmax(2)))
-print("Petal width Max is:",'{:0.1f}'.format(colmax(3)))
+print("Petal Length Max is:",'{:0.1f}'.format(colmax(2)))
+print("Petal Width Max is:",'{:0.1f}'.format(colmax(3)))
 
 
 def colstd(col):
     stdcol = (np.std(data[:,col]))
     return stdcol    
 
-print("Sepal length std dev is:",'{:0.1f}'.format(colstd(0)))
+print("Sepal Length std dev is:",'{:0.1f}'.format(colstd(0)))
 print("Sepal Width std dev is:",'{:0.1f}'.format(colstd(1)))
-print("Petal length std dev is:",'{:0.1f}'.format(colstd(2)))
-print("Petal width std dev is:",'{:0.1f}'.format(colstd(3)))
+print("Petal Length std dev is:",'{:0.1f}'.format(colstd(2)))
+print("Petal Width std dev is:",'{:0.1f}'.format(colstd(3)))
 
 # Plotting Histograms using Numpy:
 plt.hist(col1) # Histogram showing the sepal length
 plt.title('Sepal Length')
 plt.xlabel('Sepal Length (cm)')
-plt.ylabel('No. of samples')
+plt.ylabel('No. of Samples')
 plt.show()
 
 plt.hist(col2) # Histogram showing the sepal widths
 plt.title('Sepal Width')
 plt.xlabel('Sepal Width (cm)')
-plt.ylabel('No. of samples')
+plt.ylabel('No. of Samples')
 plt.show()
 
 plt.hist(col3) # Histogram showing the petal length
 plt.title('Petal Length')
 plt.xlabel('Petal Length (cm)')
-plt.ylabel('No. of samples')
+plt.ylabel('No. of Samples')
 plt.show()
 
 plt.hist(col4) # Histogram showing the petal widths
 plt.title('Petal Width')
 plt.xlabel('Petal Width(cm)')
-plt.ylabel('No. of samples')
+plt.ylabel('No. of Samples')
 plt.show()
 
-# Scatter plot using matplotlib
+# Scatter plot using matplotlib & seaborn
 # Scatter plots show how much one variable is affected by another. The relationship between two variables is called their correlation 
 # https://stackoverflow.com/questions/45862223/use-different-colors-in-scatterplot-for-iris-dataset
 x=[data[:,0]]
@@ -104,3 +104,14 @@ for name, group in iris.groupby("species"):
 
 plt.legend()
 plt.show()
+
+iris = sns.load_dataset("iris")
+
+ratio = iris["petal_length"]/iris["petal_width"]
+
+for name, group in iris.groupby("species"):
+    plt.scatter(group.index, ratio[group.index], label=name)
+
+plt.legend()
+plt.show()
+
