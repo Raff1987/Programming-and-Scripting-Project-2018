@@ -53,7 +53,7 @@ The best exapmle of how this data set is perfect for computing and data analytic
 5. Create python code to return histograms and scatterplot graphs of the varibles in the data.
 
 ### Findings
-I had some issues with this project and ipython at the begining.  Visual studio code was return errors when I enganged ipython and to be honest im unsure what I changed to fix it. The stack over flow website was a major help and I was a bit lost where to begin when creating the code. I find it very easy to tweak code than creating it from scratch. As data analytics and computing is not my day to day profession I found myself forgetting simply jobs in visual studio code. I changed the way I approached the project to working on it for a half hour a day rather then leaving it to a set day a week. This drastically improved my understanding and speed of work with the coding.
+The dataset contains a 150 samples sets of measurements from three species o Iris flowers, Iris setosa, Iris virginica and Iris versicolor. Sepal length ranged from 4.3cm to 7.9cm. Sepal width ranged from 5cm to 5.7cm . Petal length ranged from 3.6cm to 6.9cm. Petal width ranges from 0.1cm to 2.5cm.From figure 6 the ratio of length to width can be seen. The Iris setosa is signicantly diferent in terms of size of petal and sepal compare to the other two samples . 
 
 ## References 
 
