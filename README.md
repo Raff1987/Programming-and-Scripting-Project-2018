@@ -2,8 +2,8 @@
 
 *Martin Rafter G00364709*
 
-Project Module 'Programming and Scripting'  
-Dataset used: Iris Dataset and Programming Language: Python
+**Project Module** 'Programming and Scripting'  
+**Dataset used:** Iris Dataset and Programming Language: Python
 
 ## **Problem-statement**
 
