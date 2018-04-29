@@ -40,12 +40,6 @@ Ref: http://www.bogotobogo.com/python/scikit-learn/scikit_machine_learning_featu
 
 The best exapmle of how this data set is perfect for computing I found during my reaserch was a short article in  [Technopedia](https://www.techopedia.com/definition/32880/iris-flower-data-set)
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
 References 
 *Wikipedia. 2018. Iris flower data set. [ONLINE] Available at: https://en.wikipedia.org/wiki/Iris_flower_data_set. [Accessed 17 April 2018].*
 
@@ -64,4 +58,4 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 
 Investigation
-As i am new to progamming a large part of this project was spent trying to understand the importance of the fisher data set in terms of comptuing. As i began to understand the reasons that the data set is used so frequentyy in computing i was amazed that that a statistical and biological study from the 1930s is the basis of testing machine learning software
+As I am new to progamming a large part of this project was spent trying to understand the importance of the fisher data set in terms of comptuing. 
