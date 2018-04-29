@@ -66,5 +66,7 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 2. Load the iris data set into visual studio code.
 3. Load the NumPy and Matplotlib python libraries using ipython
 4. Create python code to return the min, max and mean values of the data and the standard deviation.
-5. Create python code to return histograms and scatter graphs of the varibles in the data.
+5. Create python code to return histograms and scatterplot graphs of the varibles in the data.
 
+### Findings
+I had some issues with this project and ipython at the begining.  Visual studio code was return errors when I enganged ipython and to be honest im unsure what I changed to fix it. The stack over flow website was a major help and I was a bit lost where to begin when creating the code. I find it very easy to tweak code than creating it from scratch. As data analytics and computing is not my day to day profession I found myself forgetting simply jobs in visual studio code. I changed the way I approached the project to working on it for a half hour a day rather then leaving it to a set day a week. This drastically improved my understanding and speed of work with the coding.
