@@ -53,7 +53,7 @@ The best exapmle of how this data set is perfect for computing and data analytic
 5. Create python code to return histograms and scatterplot graphs of the varibles in the data.
 
 ### Findings
-The dataset contains a 150 samples sets of measurements from three species o Iris flowers, Iris setosa, Iris virginica and Iris versicolor. Sepal length ranged from 4.3cm to 7.9cm. Sepal width ranged from 5cm to 5.7cm . Petal length ranged from 3.6cm to 6.9cm. Petal width ranges from 0.1cm to 2.5cm.From figure 6 the ratio of length to width can be seen. The Iris setosa is signicantly diferent in terms of size of petal and sepal compare to the other two samples . 
+The dataset contains a 150 samples sets of measurements from three species of Iris flowers, Iris setosa, Iris virginica and Iris versicolor. Sepal length ranged from 4.3cm to 7.9cm. Sepal width ranged from 5cm to 5.7cm . Petal length ranged from 3.6cm to 6.9cm. Petal width ranges from 0.1cm to 2.5cm.From figure 6 the ratio of length to width can be seen. The Iris setosa is signicantly diferent in terms of size of petal and sepal compared to the other two samples . 
 
 ## References 
 
