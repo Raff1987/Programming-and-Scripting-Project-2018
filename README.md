@@ -59,7 +59,7 @@ The dataset contains a 150 samples sets of measurements from three species of Ir
 
 I noticed from the start of the course that anything above simply code my laptop would be slow when returing a answer. In some cases it was over a minute. This hampered my work as I was sometimes unsure if the program had crashed or it was still computing.
 
-My day to day job in not in data or computing so this project was a challenge for me and it was difficult to get momentum as i had to constantly go back to the basics coding lessons to refresh. Halfway through the project I changed the way I approached it. I spent thirty minutes( if possible)be e project as well as going back over the previous lessons. This was a major improvement over the two day a week I was trying to complete.
+My day to day job in not in data or computing so this project was a challenge for me and it was difficult to get momentum as i had to constantly go back to the basics coding lessons to refresh. Halfway through the project I changed the way I approached it. I spent thirty minutes( if possible) a day on parts of the project as well as going back over the previous lessons. This was a major improvement over the two day a week I was trying to complete. I feel like if I stopped using any length of time I would quietly forget the basics so I plan on keeping some sort of work up after the subject finsihes.
 
 ## References 
 
