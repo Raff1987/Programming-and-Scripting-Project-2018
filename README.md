@@ -41,7 +41,22 @@ Ref: http://www.bogotobogo.com/python/scikit-learn/scikit_machine_learning_featu
 
 The best exapmle of how this data set is perfect for computing and data analytics I found during my reaserch was a short article in  [Technopedia](https://www.techopedia.com/definition/32880/iris-flower-data-set)
 
-References 
+
+## Investigation
+
+### Methodology
+
+1. Download the iris data set as a .csv file.
+2. Load the iris data set into visual studio code.
+3. Load the NumPy,Matplotlib and seaborn python libraries using ipython
+4. Create python code to return the min, max and mean values of the data and the standard deviation.
+5. Create python code to return histograms and scatterplot graphs of the varibles in the data.
+
+### Findings
+I had some issues with this project and ipython at the begining.  Visual studio code was return errors when I enganged ipython and to be honest im unsure what I changed to fix it. The stack over flow website was a major help and I was a bit lost where to begin when creating the code. I find it very easy to tweak code than creating it from scratch. As data analytics and computing is not my day to day profession I found myself forgetting simply jobs in visual studio code. I changed the way I approached the project to working on it for a half hour a day rather then leaving it to a set day a week. This drastically improved my understanding and speed of work with the coding.
+
+## References 
+
 *Wikipedia. 2018. Iris flower data set. [ONLINE] Available at: https://en.wikipedia.org/wiki/Iris_flower_data_set. [Accessed 17 April 2018].*
 
 *UCI. 1988. Iris Data Set. [ONLINE] Available at: https://archive.ics.uci.edu/ml/datasets/iris. [Accessed 25 April 2018].*
@@ -56,17 +71,3 @@ References
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=v=hd1W4CyPX58
 " target="_blank"><img src="http://img.youtube.com/vi/v=hd1W4CyPX58/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
-
-
-## Investigation
-
-### Methodology
-
-1. Download the iris data set as a .csv file.
-2. Load the iris data set into visual studio code.
-3. Load the NumPy,Matplotlib and seaborn python libraries using ipython
-4. Create python code to return the min, max and mean values of the data and the standard deviation.
-5. Create python code to return histograms and scatterplot graphs of the varibles in the data.
-
-### Findings
-I had some issues with this project and ipython at the begining.  Visual studio code was return errors when I enganged ipython and to be honest im unsure what I changed to fix it. The stack over flow website was a major help and I was a bit lost where to begin when creating the code. I find it very easy to tweak code than creating it from scratch. As data analytics and computing is not my day to day profession I found myself forgetting simply jobs in visual studio code. I changed the way I approached the project to working on it for a half hour a day rather then leaving it to a set day a week. This drastically improved my understanding and speed of work with the coding.
