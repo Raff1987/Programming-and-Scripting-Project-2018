@@ -47,17 +47,15 @@ The best exapmle of how this data set is perfect for computing I found during my
 | zebra stripes | are neat      |    $1 |
 
 References 
-*https://en.wikipedia.org/wiki/Iris_flower_data_set*
+*Wikipedia. 2018. Iris flower data set. [ONLINE] Available at: https://en.wikipedia.org/wiki/Iris_flower_data_set. [Accessed 17 April 2018].*
 
-*https://archive.ics.uci.edu/ml/datasets/iris*
+*UCI. 1988. Iris Data Set. [ONLINE] Available at: https://archive.ics.uci.edu/ml/datasets/iris. [Accessed 25 April 2018].*
 
-*http://www.randomservices.org/random/data/Fisher.html*
+*Random Services. 2018. Fisher's Iris Data. [ONLINE] Available at: http://www.randomservices.org/random/data/Fisher.html. [Accessed 25 April 2018].*
 
-*http://accord-framework.net/docs/html/T_Accord_DataSets_Iris.htm*
+*Scikit learning. 2015. The Iris Dataset. [ONLINE] Available at: http://scikit-learn.org/stable/auto_examples/datasets/plot_iris_dataset.html. [Accessed 25 April 2018].*
 
-*http://scikit-learn.org/stable/auto_examples/datasets/plot_iris_dataset.html*
-
-*https://www.youtube.com/watch?v=hd1W4CyPX58*
+*Data School. 2015. Getting started in scikit-learn with the famous iris dataset Data School. [ONLINE] Available at: https://www.youtube.com/watch?v=hd1W4CyPX58. [Accessed 25 April 2018].*
 
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=v=hd1W4CyPX58
