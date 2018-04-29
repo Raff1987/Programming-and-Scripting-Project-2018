@@ -55,6 +55,12 @@ The best exapmle of how this data set is perfect for computing and data analytic
 ### Findings
 The dataset contains a 150 samples sets of measurements from three species of Iris flowers, Iris setosa, Iris virginica and Iris versicolor. Sepal length ranged from 4.3cm to 7.9cm. Sepal width ranged from 5cm to 5.7cm . Petal length ranged from 3.6cm to 6.9cm. Petal width ranges from 0.1cm to 2.5cm.From figure 6 the ratio of length to width can be seen. The Iris setosa is signicantly diferent in terms of size of petal and sepal compared to the other two samples . 
 
+## Lessons learned
+
+I noticed from the start of the course that anything above simply code my laptop would be slow when returing a answer. In some cases it was over a minute. This hampered my work as I was sometimes unsure if the program had crashed or it was still computing.
+
+My day to day job in not in data or computing so this project was a challenge for me and it was difficult to get momentum as i had to constantly go back to the basics coding lessons to refresh. Halfway through the project I changed the way I approached it. I spent thirty minutes( if possible)be e project as well as going back over the previous lessons. This was a major improvement over the two day a week I was trying to complete.
+
 ## References 
 
 *Wikipedia. 2018. Iris flower data set. [ONLINE] Available at: https://en.wikipedia.org/wiki/Iris_flower_data_set. [Accessed 17 April 2018].*
