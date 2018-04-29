@@ -64,7 +64,7 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 1. Download the iris data set as a .csv file.
 2. Load the iris data set into visual studio code.
-3. Load the NumPy and Matplotlib python libraries using ipython
+3. Load the NumPy,Matplotlib and seaborn python libraries using ipython
 4. Create python code to return the min, max and mean values of the data and the standard deviation.
 5. Create python code to return histograms and scatterplot graphs of the varibles in the data.
 
